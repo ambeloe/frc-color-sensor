@@ -3,4 +3,4 @@ a compatible replacement for the rev robotics v3 color sensor that also includes
 
 should be fully compatible with the v3 sensor including using the same cable
 
-#design is not tested or complete
+# design is not tested or complete
